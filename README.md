@@ -153,5 +153,5 @@ print("Active account details:", account_info)
 ## Contact Us :
 ### Contact Information
 For any questions or further information, please contact:
-- **Project Lead:** [Your Name] - [your.email@example.com]
+- **Project Lead:** [Hashir Khan] - [hashirswork@example.com]
 - **GitHub Repository:** [GitHub Link](https://github.com/yourusername/FPGA-Integration-with-Quantum-Computing)
